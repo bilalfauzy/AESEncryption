@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493764005430",
+    "project_id": "aesencryption-76bad",
+    "storage_bucket": "aesencryption-76bad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493764005430:android:61f481f296834e77065297",
+        "android_client_info": {
+          "package_name": "com.example.aesencryption"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWoe2qLt0GpwM3KwMH4jAIaa5STsy2VKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
